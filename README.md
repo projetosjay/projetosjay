@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jayane+Santos;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jayane+Santos;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=projetosjay&bg_color=0d1117&color=195acd&line=6a5acd&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=projetosjay&bg_color=0d1117&color=c9d1d9&line=DC143C&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -10,9 +10,10 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=projetosjay&show_icons=true&count_private=true&hide_border=true&title_color=0d1117&icon_color=6A5ACD&text_color=6A5ACD&bg_color=0d1117" alt="jayane_santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetosjay&layout=compact&hide_border=true&title_color=6A5ACD&text_color=6A5ACD&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=projetosjay&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&bg_color=0d1117" alt="Jayane Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetosjay&layout=compact&hide_border=true&title_color=DC143C&text_color=DC143C&bg_color=0d1117" />
 </div>
+
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&labelColor=0d1117)&nbsp;
@@ -26,7 +27,7 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
 
 
 
